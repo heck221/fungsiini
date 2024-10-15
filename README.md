@@ -2,11 +2,11 @@
 # Robot Mabok Anti
 
 1, scaner cepat 
-wget https://raw.githubusercontent.com/heck221/fungsiini/refs/heads/main/sca.sh -q -O - |bash
+curl -s https://raw.githubusercontent.com/heck221/fungsiini/refs/heads/main/sca.sh | bash > hascan.txt 2>&1
 
 2, backup auto defend
 
-curl -s https://raw.githubusercontent.com/heck221/fungsiini/refs/heads/main/cod.php | php - backup y
+curl -s https://raw.githubusercontent.com/heck221/fungsiini/refs/heads/main/cod.php | php - backup y > hackup.txt 2>&1
 
 3, scanner powerfull 
 
