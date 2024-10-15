@@ -1,5 +1,7 @@
 <?php
 //Owner By Ghost Haxor 
+//kalo mau pake izin dulu anjik ke tele gwe 
+//telegram @seotampanidaman
 function kuma_hapus($nama_kuman) {
     $kumanjumlah = 0;
     $deleted_daki = [];
