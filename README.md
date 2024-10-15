@@ -8,4 +8,4 @@ curl -s https://example.com/script.php | php - backup y
 
 3, scanner powerfull 
 
-curl -s https://example.com/script.php
+curl -s https://raw.githubusercontent.com/heck221/fungsiini/refs/heads/main/outsca.php | php
