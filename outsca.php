@@ -1,4 +1,8 @@
 <?php
+
+//Owner By Ghost Haxor 
+//kalo mau pake izin dulu anjik ke tele gwe 
+//telegram @seotampanidaman
 /*
 Written by GhostHaxor <suryaheck@gmail.com>, November 2024
 Copyright (C) 2024  GhostHaxor
