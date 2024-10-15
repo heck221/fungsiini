@@ -1,5 +1,5 @@
 # fungsiini Command line linux
-# Anti Tikung" Kon7ol defendfg
+# Robot Mabok Anti
 
 1, scaner cepat 
 wget https://raw.githubusercontent.com/heck221/fungsiini/refs/heads/main/sca.sh -q -O - |bash
