@@ -1,6 +1,7 @@
 #!/bin/bash
-
-# Fungsi untuk memindai direktori secara rekursif
+#Owner By Ghost Haxor 
+#kalo mau pake izin dulu anjik ke tele gwe 
+#telegram @seotampanidaman
 scan_directory() {
     local dir="$1"
     local log_file="$2"
